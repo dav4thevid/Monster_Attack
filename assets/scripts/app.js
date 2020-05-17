@@ -204,6 +204,7 @@ let i = 0;
   
 }
 
+
 attackBtn.addEventListener("click", attackHandler);
 strongAttackBtn.addEventListener("click", strongAttackHandler);
 healBtn.addEventListener("click", healPlayerHealth);
